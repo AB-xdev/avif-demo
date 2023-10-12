@@ -6,5 +6,5 @@
 ## PNG
 ![](demo.png)
 
-## avif
+## AVIF
 ![](demo.avif)
